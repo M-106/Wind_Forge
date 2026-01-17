@@ -29,14 +29,10 @@ Contents:
 ---
 ### Progress
 
-🚩 = Current Step<br>
-✅ = Achieved Step
-
 ```text
 Engine Development Progress
 ------------------------------
 
-🚩
 [Step 1] Setup & Basics 
    └─ Core Concept Design/Idea
    └─ Window Creation (PyGame & GLFW)
@@ -200,7 +196,7 @@ Visualized in ASCII-style:
 ---
 ### Installation
 
-For python installation see https://github.com/xXAI-botXx/Project-Helper#python-installation-1 or use python via anaconda, see: https://github.com/xXAI-botXx/Project-Helper#anaconda .<br>
+For python installation see https://github.com/M-106/Project-Helper#python-installation-1 or use python via anaconda, see: https://github.com/M-106/Project-Helper#anaconda .<br>
 This reference uses the pip, pythons official package manager in combination with anaconda, to create a virtual environment.
 
 Open your bash or the anaconda bash and install these dependencies:
